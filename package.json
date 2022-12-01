@@ -14,12 +14,6 @@
 		"url": "https://github.com/alexandre-fernandez/eslint-config-af-typescript"
 	},
 	"main": ".eslintrc.cjs",
-	"contributors": [
-		{
-			"name": "Alexandre Fernandez",
-			"url": "https://github.com/alexandre-fernandez"
-		}
-	],
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
@@ -28,5 +22,11 @@
 		"eslint-plugin-import": "^2.26.0",
 		"eslint-import-resolver-typescript": "^3.5.2",
 		"typescript": "^4.9.3"
-	}
+	},
+	"contributors": [
+		{
+			"name": "Alexandre Fernandez",
+			"url": "https://github.com/alexandre-fernandez"
+		}
+	]
 }
