@@ -4,7 +4,7 @@ specifiers:
   '@typescript-eslint/eslint-plugin': ^5.45.0
   '@typescript-eslint/parser': ^5.45.0
   eslint: ^8.28.0
-  eslint-config-af-javascript: ^1.0.0
+  eslint-config-af-javascript: latest
   eslint-import-resolver-typescript: ^3.5.2
   eslint-plugin-import: ^2.26.0
   typescript: ^4.9.3
@@ -13,7 +13,7 @@ dependencies:
   '@typescript-eslint/eslint-plugin': 5.45.0_czs5uoqkd3podpy6vgtsxfc7au
   '@typescript-eslint/parser': 5.45.0_hsf322ms6xhhd4b5ne6lb74y4a
   eslint: 8.28.0
-  eslint-config-af-javascript: 1.0.0_qu7zm4ibzd2j5qqmxvxkcekf54
+  eslint-config-af-javascript: 1.1.0_qu7zm4ibzd2j5qqmxvxkcekf54
   eslint-import-resolver-typescript: 3.5.2_ktrec6dplf4now6nlbc6d67jee
   eslint-plugin-import: 2.26.0_xmouedd5rhgbah4737x2hltudq
   typescript: 4.9.3
@@ -658,8 +658,8 @@ packages:
     engines: {node: '>=10'}
     dev: false
 
-  /eslint-config-af-javascript/1.0.0_qu7zm4ibzd2j5qqmxvxkcekf54:
-    resolution: {integrity: sha512-eUA0szcxCD1WeC7IJreqI01frBIe2ZQKTlcPeXpbXoh/0d8+HMu9UwV3BU0rrB+qUCqRxOMfRIvzKqNqYqsIeQ==}
+  /eslint-config-af-javascript/1.1.0_qu7zm4ibzd2j5qqmxvxkcekf54:
+    resolution: {integrity: sha512-pofxgSlmHUIgka2Y/LugMXxbjxT4qXP1tqCFbaWutw5khyfJU4FpCNBkGoZNxiMNahQbsvu9BiKSXQwbIprLhg==}
     dependencies:
       eslint: 8.28.0
       eslint-config-airbnb-base: 15.0.0_ktrec6dplf4now6nlbc6d67jee
