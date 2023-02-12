@@ -20,6 +20,7 @@ module.exports = {
 	},
 	rules: {
 		"no-unused-vars": "off",
+		"no-useless-constructor": "off",
 		"@typescript-eslint/no-unused-vars": "error",
 		"@typescript-eslint/interface-name-prefix": "off",
 		"@typescript-eslint/explicit-function-return-type": "off",
