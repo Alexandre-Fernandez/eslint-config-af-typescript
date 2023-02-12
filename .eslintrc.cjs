@@ -19,6 +19,7 @@ module.exports = {
 		},
 	},
 	rules: {
+		"dot-notation": "off",
 		"no-unused-vars": "off",
 		"no-useless-constructor": "off",
 		"@typescript-eslint/no-unused-vars": "error",
