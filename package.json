@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-af-typescript",
-	"version": "1.6.1",
+	"version": "1.6.2",
 	"author": "alexandre-fernandez",
 	"description": "TypeScript eslint configuration.",
 	"keywords": [
